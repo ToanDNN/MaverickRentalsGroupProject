@@ -1,0 +1,51 @@
+stationId,stationName,stationCapacity,stationAvailableBikes
+1,North Moore St & Greenwich St,29,2
+2,W 34 St & Hudson Blvd E,57,2
+3,E 48 St & 5 Ave,62,2
+4,Willoughby Ave & Hall St,51,12
+5,W 34 St & 11 Ave,80,35
+6,W 116 St & Amsterdam Ave,43,0
+7,W 30 St & 10 Ave,56,23
+8,Webb Ave & W 190 St,22,0
+9,5 Ave & E 87 St,38,2
+10,W Broadway & W Houston St,50,28
+11,E 65 St & 2 Ave,48,10
+12,9 Ave & W 39 St,36,20
+13,E 174 St & Longfellow Ave,20,2
+14,E Mosholu Pkwy & E 204 St,19,0
+15,Hoyt St & Warren St,34,34
+16,Union St & Nevins St,35,34
+17,Barclay St & Church St,37,37
+18,Columbia St & Lorraine St,37,34
+19,Bedford Ave & Nassau Ave,39,37
+20,Rutgers St & Henry St,40,36
+21,Thompson St & Bleecker St,41,40
+22,Greenwich St & Rector St,41,36
+23,Humboldt St & Varet St,42,41
+24,South St & Gouverneur Ln,43,40
+25,Washington St & Laight St,43,34
+26,Duane St & Hudson St,44,42
+27,Greene St & Prince St,45,36
+28,Ashland Pl & Dekalb Ave,47,40
+29,W 17 St & 7 Ave,47,36
+30,Walker St & Baxter St,47,34
+31,2 Ave & 39 St,48,45
+32,Sullivan St & Washington Sq,57,55
+33,Atlantic Ave & Fort Greene Pl,61,43
+34,Bus Slip & State St,69,55
+35,Madison St & Evergreen Ave,18,0
+36,W 176 St & Montgomery Ave,19,0
+37,Andrew Ave N & Hall of Fame Tce,19,0
+38,Ogden Ave & W 165 St,19,0
+39,Crotona Park East & E 173 St,19,0
+40,Anthony Ave & E 175 St,19,0
+41,E 201 St & Briggs Ave,19,0
+42,Concord St & Bridge St,19,0
+43,Harman St & Seneca Ave,19,0
+44,Wales Ave & E 147 St,19,0
+45,Tinton Ave & E 165 St,19,0
+46,3 Ave & E 172 St,19,0
+47,52 St & 6 Ave,19,0
+48,Aqueduct Ave & W 190 St,19,0
+49,60 Ave & Fresh Pond Rd,19,0
+50,57 Rd & 59 St,19,0
